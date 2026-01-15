@@ -1,0 +1,5 @@
+My name is Magnus.
+I am a student at AUPP.
+I am learning software development and Git.
+I am interested in technology, programming, and building applications.
+I am working on improving my skills step by step.
